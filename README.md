@@ -41,7 +41,7 @@ which looks like
         }
     }
 }
-```
+``` 
 
 * version is simply incremented each build
 * files contains the folder structure in the the repo 
