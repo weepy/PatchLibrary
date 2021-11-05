@@ -6,7 +6,7 @@ Add neccesary files to the /files folder and build with
 
 `node scripts/build.js`
 
-Which will build a file "library.json"
+- this will build a file "library.json"
 
 ## Access Index
 
