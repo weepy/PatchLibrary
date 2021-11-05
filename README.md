@@ -2,7 +2,7 @@
 
 ## Build 
 
-Add neccesary files to the /library folder and build with
+Add neccesary files to the /files folder and build with
 
 `node scripts/build.js`
 
