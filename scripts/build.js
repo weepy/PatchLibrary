@@ -36,7 +36,7 @@ function treeList(dirPath, tree={}) {
 
 
 
-const files = treeList(__dirname +"/../library")
+const files = treeList(__dirname +"/../files")
 
 console.log(files)
 let version 
