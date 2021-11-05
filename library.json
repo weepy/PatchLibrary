@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "createdAt": "2021-11-05T07:53:33.745Z",
+    "files": {
+        "images": {
+            "Screenshot 2021-10-12 at 10.07.27.png": 1,
+            "Screenshot 2021-10-19 at 09.03.17.png": 1,
+            "sub-rainbow-appicon.png": 1
+        },
+        "samples": {
+            "Death trap b3.flac": 1,
+            "nested": {},
+            "vocals_drums.mp3": 1
+        },
+        "zipfiles": {
+            "looperman-l-4276221-0262522-drumm3r.wav.zip": 1
+        }
+    }
+}
